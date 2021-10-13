@@ -1,1 +1,1 @@
-# gcp_cloud_armor
+# Hands on Google Cloud Armor
